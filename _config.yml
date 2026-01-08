@@ -105,4 +105,4 @@ theme: redefine
 deploy:
   type: 'git'
   repository: 'git@github.com:sol-long/sol-long.github.io.git'
-  branch: master
+  branch: gh-pages
